@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://jaypatel9800.github.io/csb-qb2k8/static/css/main.fef33b4d.chunk.css",
+    "main.js": "https://jaypatel9800.github.io/csb-qb2k8/static/js/main.51ecd8e2.chunk.js",
+    "main.js.map": "https://jaypatel9800.github.io/csb-qb2k8/static/js/main.51ecd8e2.chunk.js.map",
+    "runtime-main.js": "https://jaypatel9800.github.io/csb-qb2k8/static/js/runtime-main.1a0904c4.js",
+    "runtime-main.js.map": "https://jaypatel9800.github.io/csb-qb2k8/static/js/runtime-main.1a0904c4.js.map",
+    "static/js/2.8de212db.chunk.js": "https://jaypatel9800.github.io/csb-qb2k8/static/js/2.8de212db.chunk.js",
+    "static/js/2.8de212db.chunk.js.map": "https://jaypatel9800.github.io/csb-qb2k8/static/js/2.8de212db.chunk.js.map",
+    "index.html": "https://jaypatel9800.github.io/csb-qb2k8/index.html",
+    "static/css/main.fef33b4d.chunk.css.map": "https://jaypatel9800.github.io/csb-qb2k8/static/css/main.fef33b4d.chunk.css.map",
+    "static/js/2.8de212db.chunk.js.LICENSE.txt": "https://jaypatel9800.github.io/csb-qb2k8/static/js/2.8de212db.chunk.js.LICENSE.txt",
+    "static/media/icon-arrow.e99e2dc2.svg": "https://jaypatel9800.github.io/csb-qb2k8/static/media/icon-arrow.e99e2dc2.svg",
+    "static/media/icon-location.7e6459d2.svg": "https://jaypatel9800.github.io/csb-qb2k8/static/media/icon-location.7e6459d2.svg",
+    "static/media/pattern-bg.a60a3c85.png": "https://jaypatel9800.github.io/csb-qb2k8/static/media/pattern-bg.a60a3c85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a0904c4.js",
+    "static/js/2.8de212db.chunk.js",
+    "static/css/main.fef33b4d.chunk.css",
+    "static/js/main.51ecd8e2.chunk.js"
+  ]
+}
